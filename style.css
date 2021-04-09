@@ -458,8 +458,14 @@ button {
     .works p {
         font-size: 0.8em;
     }
+    .about p {
+        font-size: 1.1em;
+    }
     .services {
         margin: auto;
+    }
+    .services h3 {
+        line-height: 2;
     }
     .hire-us h2 {
         width: 90%;
@@ -473,6 +479,12 @@ button {
         border-bottom-right-radius: 0.25rem!important;
         border-top-right-radius: 0.25rem!important;
         text-align: center;
+    }
+    .hire-us .form {
+        width: auto;
+    }
+    .btn-style {
+        width: 90%;
     }
     .about {
         text-align: center;
